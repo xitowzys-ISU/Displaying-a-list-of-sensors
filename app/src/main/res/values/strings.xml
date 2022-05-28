@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SensorExample</string>
+
+    <string name="title_view">Выбери сенсор!</string>
+
+
+    <string-array name="sensor_types_array">
+        <item>Датчики окружающей среды</item>
+        <item>Датчики положения</item>
+        <item>Датчик состояния человека</item>
+    </string-array>
+
+</resources>

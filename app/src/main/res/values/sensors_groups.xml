@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sensors_physical_position_device">
+        <item>android.sensor.accelerometer</item>
+        <item>android.sensor.linear_acceleration</item>
+        <item>android.sensor.step_detector</item>
+        <item>android.sensor.rotation_vector</item>
+        <item>android.sensor.game_rotation_vector</item>
+        <item>android.sensor.geomagnetic_rotation_vector</item>
+        <item>android.sensor.gravity</item>
+        <item>android.sensor.gyroscope</item>
+        <item>android.sensor.gyroscope_uncalibrated</item>
+        <item>android.sensor.hinge_angle</item>
+        <item>android.sensor.motion_detect</item>
+        <item>android.sensor.proximity</item>
+        <item>android.sensor.significant_motion</item>
+        <item>android.sensor.stationary_detect</item>
+        <item>android.sensor.step_counter</item>
+        <item>android.sensor.step_detector</item>
+        <item>android.sensor.linear_acceleration</item>
+    </string-array>
+
+    <string-array name="sensors_human_condition">
+        <item>android.sensor.low_latency_offbody_detect</item>
+        <item>android.sensor.heart_beat</item>
+        <item>android.sensor.heart_rate</item>
+    </string-array>
+
+    <string-array name="sensors_environment">
+        <item>android.sensor.ambient_temperature</item>
+        <item>android.sensor.light</item>
+        <item>android.sensor.magnetic_field</item>
+        <item>android.sensor.magnetic_field_uncalibrated</item>
+        <item>android.sensor.pressure</item>
+        <item>android.sensor.relative_humidity</item>
+    </string-array>
+</resources>
